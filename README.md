@@ -1,11 +1,5 @@
-# ipsmnews
-API de Notícias da IP San Martin
+## API de Notícias da IP San Martin
 
-## Try it
+# Esse é o API de notícias da Igreja Presbiteriana de San Martin
 
 [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
-
-## Use your own data
-
-Fork it and change `db.json` values or create a repo with a `db.json` file.
-
