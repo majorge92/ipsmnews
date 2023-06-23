@@ -1,19 +1,8 @@
 {
   "articles": [
-    {
-      "id": 1,
-      "title": "31 dias de oração",
-      "author": "Manassés Jorge",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "description": "Uma noite linda e de benção em nossa vida;encerramento de 31 dias de culto de oração",
-      "url": "https://www.instagram.com/p/Cqeg11usnP3/",
-      "urlToImage": "https://cdn.pixabay.com/photo/2023/05/23/22/41/22-41-14-794_960_720.png",
-      "published_at": "Publicado em: 23/05/2023 - 21:35"
-      
-    },
 
     {
-      "id": 2,
+      "id": 1,
       "title": "Novo vídeo públicado",
       "author": "Manassés Jorge",
       "content": "Pellentesque euismod velit ac risus tincidunt.",
