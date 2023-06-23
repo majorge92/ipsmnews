@@ -11,24 +11,15 @@
       "published_at": "Publicado em: 23/05/2023 - 21:35"
       
     },
+
     {
       "id": 2,
-      "title": "Dia do pastor",
-      "author": "Manassés Jorge",
-      "content": "Pellentesque euismod velit ac risus tincidunt.",
-      "description": "SAF homenageia os pastores Gilberto Barbosa e Joab Rocha.",
-      "url": "https://www.instagram.com/p/CmWSzSMr-S-/",
-      "urlToImage": "https://cdn.pixabay.com/photo/2023/05/23/22/58/22-58-28-631_960_720.jpg",
-      "published_at": "Publicado em: 23/05/2023 - 21:36"
-    },
-    {
-      "id": 3,
       "title": "Novo vídeo públicado",
       "author": "Manassés Jorge",
       "content": "Pellentesque euismod velit ac risus tincidunt.",
       "description": "Já está disponível no youtube o sermão ministrado pelo Rev. Joab Rocha.",
-      "url": "https://youtu.be/se3_uY7Uhvs",
-      "urlToImage": "https://uploaddeimagens.com.br/images/004/500/047/original/paulo_e_silas.png?1686268041",
+      "url": "https://www.youtube.com/watch?v=HcPP7ONUC5U",
+      "urlToImage": "https://uploaddeimagens.com.br/images/004/518/455/full/Thumbnail_Youtube_-_Joab_Rocha.png?1687556929",
       "published_at": "Publicado em: 08/06/2023 - 20:31"
     }
   ]
